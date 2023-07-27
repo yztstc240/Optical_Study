@@ -1,0 +1,9 @@
+相同之处：
+1. 两篇论文都探讨了通过散射介质进行非侵入式成像的方法。
+2. 两篇论文都是基于散射介质中的光学多次散射和随机相位的效应，通过利用光子的统计特性来重构目标图像。
+3. 两篇论文都使用了类似的实验装置和处理算法。
+
+不同之处：
+1. 两篇论文的应用场景不同。《Non-invasive imaging through opaque scattering layers》侧重于在不移动或干扰样品的情况下实现穿透不透明散射介质的成像，而《Non-invasive single-shot imaging through scattering layers and around corners via speckle correlations》则更注重在散射介质内进行成像，包括在目标周围和通过多次散射后的目标内部。
+2. 两篇论文采用的成像方法不同。《Non-invasive imaging through opaque scattering layers》使用了多次扫描和反演算法来重构图像，而《Non-invasive single-shot imaging through scattering layers and around corners via speckle correlations》则采用了一次拍摄和Gerchberg-Saxton类型算法来重构图像。
+3. 两篇论文的实验数据来源不同。《Non-invasive imaging through opaque scattering layers》的实验数据来自不同的物体，而《Non-invasive single-shot imaging through scattering layers and around corners via speckle correlations》的实验数据则来自不同的散射介质和不同的目标。
